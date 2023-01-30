@@ -1,4 +1,4 @@
-## Olá! Eu sou o Francisco Araújo! 🖖🏻🤓
+## Olá! Eu sou o Francisco Araújo! <img src="https://em-content.zobj.net/source/microsoft-teams/337/victory-hand_medium-light-skin-tone_270c-1f3fc_1f3fc.png" width="30px"><img src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png" width="30px"><img src="https://em-content.zobj.net/source/microsoft-teams/337/victory-hand_medium-light-skin-tone_270c-1f3fc_1f3fc.png" width="30px">
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-hydglan-b4045614b/)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fco_araujo95/)
@@ -27,3 +27,5 @@ Apaixonado por tecnologia, em busca da primeira vaga como Dev Front-End.
 - [Meu Whatsapp](https://wa.me/5585991230021?text=Ol%C3%A1,%20eu%20sou%20Francisco%20Ara%C3%BAjo,%20Dev%20Front-End!%20Muito%20prazer!)<br/>
 
 ## Estou disponível para novos projetos, não hesite em me contatar!
+
+<p><img src="https://komarev.com/ghpvc/?username=FranciscoAraujo95&color=green" alt="Profile views" /></p>
