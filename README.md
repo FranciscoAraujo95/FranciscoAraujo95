@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats-franciscoaraujo95.vercel.app/api/top-langs/?username=FranciscoAraujo95&layout=compact)](https://github.com/FranciscoAraujo95/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia 🖥️👨‍💻
+## Tecnologias que utilizo e estudo no meu dia a dia 🖥️👨‍💻
 
 <br/>
 <div style="display: inline_block">
