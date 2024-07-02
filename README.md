@@ -1,4 +1,4 @@
-## Olá! Eu sou o Francisco! <img src="https://em-content.zobj.net/source/microsoft-teams/337/victory-hand_medium-light-skin-tone_270c-1f3fc_1f3fc.png" width="30px"><img src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png" width="30px"><img src="https://em-content.zobj.net/source/microsoft-teams/337/victory-hand_medium-light-skin-tone_270c-1f3fc_1f3fc.png" width="30px">
+## Hi, there! I'm Francisco! <img src="https://em-content.zobj.net/source/microsoft-teams/337/victory-hand_medium-light-skin-tone_270c-1f3fc_1f3fc.png" width="30px"><img src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png" width="30px"><img src="https://em-content.zobj.net/source/microsoft-teams/337/victory-hand_medium-light-skin-tone_270c-1f3fc_1f3fc.png" width="30px">
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-hydglan-java)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fco_araujo95/)
@@ -9,11 +9,12 @@
 ## Tecnologias que utilizo e estudo no meu dia a dia 🖥️👨‍💻
 
 <br/>
+
 <div style="display: inline_block">
+  
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 <br/>
 
