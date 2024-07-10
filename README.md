@@ -7,7 +7,7 @@ public static void main(String[] args) {
     const name = "Francisco";
     const acknowledgements = "Java Developer";
     const location = "Fortaleza, Ceará - Brazil";
-    const drink( ) {
+    const drink() {
         System.out.prinln("Drink cofee...☕");
     }
 }
