@@ -2,7 +2,7 @@
   <h1>Hi, there! I'm Francisco! <img src="https://em-content.zobj.net/source/microsoft-teams/337/victory-hand_medium-light-skin-tone_270c-1f3fc_1f3fc.png" width="30px"><img src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png" width="30px">      <img src="https://em-content.zobj.net/source/microsoft-teams/337/victory-hand_medium-light-skin-tone_270c-1f3fc_1f3fc.png" width="30px"></h1> 
 </div>
 
-`
+```
 public static void main(String[] args) {
     const name = "Francisco";
     const acknowledgements = "Java Developer";
@@ -11,9 +11,7 @@ public static void main(String[] args) {
         System.out.prinln("Drink cofee...☕");
     }
 }
-`
-  
-<br/>
+```
 
 <h2>Currently learning 📚</h2>
 
