@@ -2,7 +2,7 @@
   <h1>Hi, there! I'm Francisco! <img src="https://em-content.zobj.net/source/microsoft-teams/337/victory-hand_medium-light-skin-tone_270c-1f3fc_1f3fc.png" width="30px"><img src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png" width="30px">      <img src="https://em-content.zobj.net/source/microsoft-teams/337/victory-hand_medium-light-skin-tone_270c-1f3fc_1f3fc.png" width="30px"></h1> 
 </div>
 
-<img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndyeXdlZXFuZzlmdjBraWhiandhNGhtcjNzY3IxOTVxN3E2ejV2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFvFtrhrmIFFe/giphy.webp" />
+<img align="right" width="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndyeXdlZXFuZzlmdjBraWhiandhNGhtcjNzY3IxOTVxN3E2ejV2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFvFtrhrmIFFe/giphy.webp" />
 
   
   ```java
