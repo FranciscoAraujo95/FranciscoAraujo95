@@ -23,8 +23,9 @@
 
 <h2>Reach me 🤙☎</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://criarmeulink.com.br/u/1720645558)
+[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,instagram)](https://criarmeulink.com.br/u/1720645558,https://www.linkedin.com/in/francisco-araujo-java,https://www.instagram.com/fco_araujo95/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/francisco-araujo-java)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/fco_araujo95/)
 
 - [Meu Whatsapp](https://wa.me/5585991230021?text=Ol%C3%A1,%20eu%20sou%20Francisco%20Ara%C3%BAjo,%20Dev%20Front-End!%20Muito%20prazer!)<br/>
 
