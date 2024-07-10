@@ -32,6 +32,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github)](https://skillicons.dev)
 
+<br/>
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoaraujo95&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscoaraujo95&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+<br/>
+
 <h2>Reach me 🤙☎</h2>
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-hydglan-java)
