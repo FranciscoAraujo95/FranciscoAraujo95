@@ -24,7 +24,7 @@
 <h2>Reach me 🤙☎</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/francisco-hydglan-java)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/francisco-araujo-java)
 
 - [Meu Whatsapp](https://wa.me/5585991230021?text=Ol%C3%A1,%20eu%20sou%20Francisco%20Ara%C3%BAjo,%20Dev%20Front-End!%20Muito%20prazer!)<br/>
 
