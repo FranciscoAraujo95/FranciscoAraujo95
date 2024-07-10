@@ -19,7 +19,7 @@
 
 <h2>Technologies I use on a daily basis 🖥️👨‍💻</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github)](https://skillicons.dev)
 
 
 <br/>
@@ -27,8 +27,8 @@
 Apaixonado por tecnologia, em busca da primeira vaga como Dev Full Stack.
 
 ## Contatos:
+<a href="https://google.com" target="_blank">[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
 
-- [Meu Gmail](https://is.gd/xCthhr)<br/>
 - [Meu Whatsapp](https://wa.me/5585991230021?text=Ol%C3%A1,%20eu%20sou%20Francisco%20Ara%C3%BAjo,%20Dev%20Front-End!%20Muito%20prazer!)<br/>
 
 ## Estou disponível para novos projetos, não hesite em me contatar!
