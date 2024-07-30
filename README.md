@@ -22,11 +22,11 @@
 
 <h2>Currently learning 📚</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,angular)](https://skillicons.dev)
 
 <h2>On my roadmap 🗺</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,mongodb,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,spring)](https://skillicons.dev)
 
 <h2>Technologies I use on a daily basis 🖥️👨‍💻</h2> 
 
